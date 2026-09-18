@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_monthly">Monthly</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="edit_expense_title">Edit Expense</string>
+    <string name="expense_title_label">Title / Description</string>
+    <string name="expense_amount_label">Cost Amount ($)</string>
+    <string name="expense_date_label">Date</string>
+    <string name="save_expense_button">Save Expense</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <string name="today_total_label">Today\'s Total</string>
+    <string name="this_month_total_label">This Month</string>
+    <string name="recent_expenses_heading">Daily Expense Log</string>
+    <string name="no_expenses_recorded">No expenses recorded yet</string>
+    <string name="no_monthly_expenses">No expenses found for this month</string>
+    <string name="monthly_overview_heading">Monthly Expense Overview</string>
+    <string name="total_spent_label">Total Spent</string>
+    <string name="total_transactions_label">Entries</string>
+    <string name="daily_average_label">Daily Avg</string>
+</resources>
